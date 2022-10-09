@@ -1,6 +1,18 @@
-# Sample Hardhat Project
+# musiqu.eth
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+### Tech Stack
+
+  - Hardhat
+  - Typescript
+  - ethers
+  
+### Where we used the sponsors:
+  
+  - Polygon: 
+    - Contract Creation: https://mumbai.polygonscan.com/tx/0xa29b1438c81e2baf872bedd0d013d10e77368473c9fd0e378741c32371184704
+  - EPNS: 
+    - Contract Solidity: https://github.com/BrunoEleodoro/ethbogota-backend/blob/main/contracts/PNSArtists.sol
+    - Contract Creation: https://mumbai.polygonscan.com/tx/0xa29b1438c81e2baf872bedd0d013d10e77368473c9fd0e378741c32371184704
 
 Try running some of the following tasks:
 
