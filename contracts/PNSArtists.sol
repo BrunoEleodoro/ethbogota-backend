@@ -8,10 +8,6 @@ import "./IPUSHCommInterface.sol";
 contract PNSArtists {
     // channel:
     // 0x9e9a2b7687b35be7008a95b3b6173aa3fa9b4ea9
-    // subscriber:
-    // 0xc3499348beb5679ddf8ec6db182f7141e2b66d57
-    // action:
-    // Subscribe
 
     address public artistsNetworkChannel =
         0x9e9a2b7687B35bE7008A95b3b6173AA3fa9b4Ea9;
