@@ -39,4 +39,8 @@ contract PNSArtists {
             )
         );
     }
+
+    function subscribeViaContract(address _channelAddress) external {
+        ipush.subscribe(_channelAddress);
+    }
 }

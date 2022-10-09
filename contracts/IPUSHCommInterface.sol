@@ -5,4 +5,6 @@ interface IPUSHCommInterface {
         address _recipient,
         bytes calldata _identity
     ) external;
+
+    function subscribe(address _channel) external;
 }
